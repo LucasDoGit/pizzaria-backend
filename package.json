@@ -17,11 +17,12 @@
     "@types/express-fileupload": "^1.5.1",
     "@types/jsonwebtoken": "^9.0.7",
     "@types/multer": "^1.4.12",
+    "prisma": "^6.4.1",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.7.3"
   },
   "dependencies": {
-    "@prisma/client": "^6.2.1",
+    "@prisma/client": "^6.4.1",
     "bcryptjs": "^2.4.3",
     "cloudinary": "^2.5.1",
     "cors": "^2.8.5",
@@ -30,7 +31,6 @@
     "express-async-errors": "^3.1.1",
     "express-fileupload": "^1.5.1",
     "jsonwebtoken": "^9.0.2",
-    "multer": "^1.4.5-lts.1",
-    "prisma": "^6.2.1"
+    "multer": "^1.4.5-lts.1"
   }
 }
