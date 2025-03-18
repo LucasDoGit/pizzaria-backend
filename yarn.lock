@@ -1525,19 +1525,19 @@ swagger-parser@^10.0.3:
   dependencies:
     "@apidevtools/swagger-parser" "10.0.3"
 
-swagger-ui-dist@>=5.0.0:
-  version "5.20.0"
-  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-5.20.0.tgz#b14d5e2bd0ffab2179de221288ee366a5ec5fcf1"
-  integrity sha512-V5pozVTZxivdoQq/SQWxj3A4cOu5opk9MEbcZANX3Pj8X8xCrD1QCtBT7744Pz9msOvt0nnmy9JvM/9PGonCdg==
+swagger-ui-dist@>=4.11.0:
+  version "5.20.1"
+  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-5.20.1.tgz#9aa6012cd537a9d3feac2d9e814d97bb36459824"
+  integrity sha512-qBPCis2w8nP4US7SvUxdJD3OwKcqiWeZmjN2VWhq2v+ESZEXOP/7n4DeiOiiZcGYTKMHAHUUrroHaTsjUWTEGw==
   dependencies:
     "@scarf/scarf" "=1.4.0"
 
-swagger-ui-express@^5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/swagger-ui-express/-/swagger-ui-express-5.0.1.tgz#fb8c1b781d2793a6bd2f8a205a3f4bd6fa020dd8"
-  integrity sha512-SrNU3RiBGTLLmFU8GIJdOdanJTl4TOmT27tt3bWWHppqYmAZ6IDuEuBvMU6nZq0zLEe6b/1rACXCgLZqO6ZfrA==
+swagger-ui-express@^4.6.3:
+  version "4.6.3"
+  resolved "https://registry.yarnpkg.com/swagger-ui-express/-/swagger-ui-express-4.6.3.tgz#870d0892654fe80e6970a2d680e22521acd2dc19"
+  integrity sha512-CDje4PndhTD2HkgyKH3pab+LKspDeB/NhPN2OF1j+piYIamQqBYwAXWESOT1Yju2xFg51bRW9sUng2WxDjzArw==
   dependencies:
-    swagger-ui-dist ">=5.0.0"
+    swagger-ui-dist ">=4.11.0"
 
 to-regex-range@^5.0.1:
   version "5.0.1"
